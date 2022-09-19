@@ -3,7 +3,8 @@
 }
 
 section{
-    margin-left: 5px;
+    width: 60%;
+    margin: auto;
     margin-top: 20px;
 }
 
@@ -27,7 +28,8 @@ thead{
 }
 
 footer{
-    margin-left:5px ;
+    width: 60%;
+    margin:auto ;
     margin-top: 30px;
 }
 
