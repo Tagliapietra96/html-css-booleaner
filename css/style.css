@@ -2,6 +2,23 @@
     margin:0;
 }
 
+.page-title{
+    margin-left: 5px;
+    margin-top: 15px;
+}
+
+.text-lightblue{
+    color: rgb(61, 184, 225);
+}
+
+.title-description{
+    color: gray;
+}
+
+#data{
+    font-size: small;
+}
+
 #banner {
     width: 100%;
     height: 100px;
@@ -20,3 +37,4 @@
     margin-left: 5px;
     background-position: bottom left;
 }
+
