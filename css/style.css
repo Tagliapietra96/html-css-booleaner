@@ -26,6 +26,15 @@ thead{
     text-align: left;
 }
 
+footer{
+    margin-left:5px ;
+    margin-top: 30px;
+}
+
+footer>h4{
+    color: grey;
+}
+
 .short{
     width: 300px;
 }
@@ -49,6 +58,32 @@ thead{
 
 .title-description{
     color: gray;
+}
+
+.art_1{
+    background-image: url("../img/monitor.jpg");
+    width: 250px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 10px;
+}
+
+.art_2{
+    background-image: url("../img/graph.jpg");
+    width: 250px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 10px;
+}
+
+.text-white{
+    color: white;
+    padding-left: 10px;
+    padding-top: 15px;
 }
 
 #data{
