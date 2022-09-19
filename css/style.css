@@ -2,9 +2,18 @@
     margin:0;
 }
 
+figure{
+    margin-top: 20px;
+    margin-left: 5px;
+}
+
+figcaption{
+    font-size: small;
+}
+
 .page-title{
     margin-left: 5px;
-    margin-top: 15px;
+    margin-top: 20px;
 }
 
 .text-lightblue{
