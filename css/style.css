@@ -1,12 +1,50 @@
 * {
     margin:0;
 }
+/* Header's Proprieties */
+
+.page-title{
+    margin-left: 5px;
+    margin-top: 20px;
+}
+
+.text-lightblue{
+    color: rgb(61, 184, 225);
+}
+
+.title-description{
+    color: gray;
+}
+
+#data{
+    font-size: small;
+}
+
+#banner {
+    width: 100%;
+    height: 100px;
+    background-color: #4194ec;
+    background-image: url("../img/pattern.png");
+    background-size: 400px;
+}
+
+#booleaner-logo {
+    height: 60px;
+    width: 100%;
+    background-image: url("../img/logo.svg");
+    background-size: 200px;
+    background-repeat: no-repeat;
+    padding-top: 30px;
+    margin-left: 5px;
+    background-position: bottom left;
+}
+
+/* Main's Proprieties */
 
 section{
     margin-left: 5px;
     margin-top: 20px;
 }
-
 
 figcaption{
     font-size: small;
@@ -26,15 +64,6 @@ thead{
     text-align: left;
 }
 
-footer{
-    margin-left:5px ;
-    margin-top: 30px;
-}
-
-footer>h4{
-    color: grey;
-}
-
 .short{
     width: 300px;
 }
@@ -47,17 +76,15 @@ footer>h4{
     background-color: lightblue;
 }
 
-.page-title{
-    margin-left: 5px;
-    margin-top: 20px;
+/* Footer's Proprieties */
+
+footer{
+    margin-left:5px ;
+    margin-top: 30px;
 }
 
-.text-lightblue{
-    color: rgb(61, 184, 225);
-}
-
-.title-description{
-    color: gray;
+footer>h4{
+    color: grey;
 }
 
 .art_1{
@@ -86,26 +113,5 @@ footer>h4{
     padding-top: 15px;
 }
 
-#data{
-    font-size: small;
-}
 
-#banner {
-    width: 100%;
-    height: 100px;
-    background-color: #4194ec;
-    background-image: url("../img/pattern.png");
-    background-size: 400px;
-}
-
-#booleaner-logo {
-    height: 60px;
-    width: 100%;
-    background-image: url("../img/logo.svg");
-    background-size: 200px;
-    background-repeat: no-repeat;
-    padding-top: 30px;
-    margin-left: 5px;
-    background-position: bottom left;
-}
 
