@@ -2,13 +2,22 @@
     margin:0;
 }
 
-figure{
-    margin-top: 20px;
+section{
     margin-left: 5px;
+    margin-top: 20px;
 }
+
 
 figcaption{
     font-size: small;
+}
+
+ul{
+    padding-left: 15px;
+}
+
+.hightlight{
+    background-color: yellow;
 }
 
 .page-title{
